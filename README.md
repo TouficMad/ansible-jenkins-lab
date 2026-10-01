@@ -1,6 +1,6 @@
 # Ansible + Jenkins Lab
 
-A local lab for configuration management. **Jenkins** runs a pipeline that lints the **Ansible** code, does a dry run, waits for approval and then configures two Ubuntu servers: base setup, **Nginx** and **Prometheus node_exporter**. Everything runs on your laptop with **Docker Compose**, so there's no cloud bill.
+A local lab for configuration management. **Jenkins** runs a pipeline that lints the **Ansible** code, does a dry run, waits for approval and then configures two Ubuntu servers: base setup , **Nginx** and **Prometheus node_exporter**. Everything runs on your laptop with **Docker Compose**, so there's no cloud bill.
 
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
